@@ -73,7 +73,7 @@
 
 ```
 nextion_timer/
-├── nextion_timer.ino     # Основной скетч Arduino
-├── nextion_timer.HMI     # Файл интерфейса Nextion
+├── script                # Основной скетч Arduino
+├── nextion_timer         # Файл интерфейса Nextion
 └── README.md             # Документация проекта
 ```
