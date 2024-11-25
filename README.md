@@ -31,18 +31,18 @@
 1. Скачайте и установите [Arduino IDE](https://www.arduino.cc/en/software)
 2. Скачайте и установите [Nextion Editor](https://nextion.tech/nextion-editor/)
 3. Загрузите файлы проекта:
-   - `nextion_timer.ino` - скетч для Arduino
-   - `nextion_timer.HMI` - файл интерфейса для Nextion дисплея
+   - `script` - скетч для Arduino
+   - `nextion_timer` - файл интерфейса для Nextion дисплея
 
 ## Настройка проекта
 
 1. **Настройка Nextion дисплея:**
-   - Откройте файл `nextion_timer.HMI` в Nextion Editor
+   - Откройте файл `nextion_timer` в Nextion Editor
    - Скомпилируйте проект
    - Загрузите прошивку на дисплей
 
 2. **Настройка Arduino:**
-   - Откройте `nextion_timer.ino` в Arduino IDE
+   - Откройте `script` в Arduino IDE
    - Выберите правильную плату Arduino и порт
    - Загрузите скетч на Arduino
 
